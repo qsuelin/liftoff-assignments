@@ -1,18 +1,25 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+# Overview
+The goal of the video catalog system(VCS) application is to manage TB-size local videos regarding to robotics. It implements a comprehensive tag system so that users can browse and search related videos via complex metrics as well as edit tags for specific video. This application is meant to be an auxiliary tool for mechanism/electronics design of robots.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+# Features
+1. Customized authentication system for different users
+1. Populate video database automatically with related metadata from videos
+1. Display video in a list view
+1. Users can edit tags for specific video
+1. Users can search video via tag
+1. Users can click and play the video on the fly
 
-## Submission Instructions
+# Stack
+1. Video ingest: Python, ffmpeg library
+1. Server: ASP.NET
+1. Front end: BootStrap, Razor Template
+1. Database: MySQL
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+# Things to learn
+1. Authentication and authorization system for ASP.NET
+1. Crawl local file system to populate Database
+1. Database first approach to entity modeling
+1. Using third party library to extract metadata from videos
+
+# Project Tracker
+[Go to Trello](https://trello.com/b/AVrGSdH4/video-catalog-system)
