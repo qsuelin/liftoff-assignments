@@ -1,19 +1,13 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
+# Wireframes
 
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+![alt text](https://github.com/qsuelin/liftoff-assignments/blob/master/P3-Project_Planning/wireframe/welcome_page.png "Welcome View")
+![alt text](https://github.com/qsuelin/liftoff-assignments/blob/master/P3-Project_Planning/wireframe/list_view.png "List View")
+![alt text](https://github.com/qsuelin/liftoff-assignments/blob/master/P3-Project_Planning/wireframe/detail_view.png "Detail View")
+![alt text](https://github.com/qsuelin/liftoff-assignments/blob/master/P3-Project_Planning/wireframe/tag_edit_view.png "Edit View")
 
-## Submission Instructions
-
-### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Go to Trello](https://trello.com/b/AVrGSdH4/video-catalog-system)
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+[VCS_csharp](https://github.com/qsuelin/VCS_csharp)
